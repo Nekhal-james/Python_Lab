@@ -1,2 +1,2 @@
 # Python_Lab
-Python Lab Program from sem2 
+Python Lab Programs from sem2 
